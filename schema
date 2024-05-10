@@ -1,0 +1,10 @@
+      User            Chat
+      |---id          |---id
+      |---name        |---role
+      |---email       |---content
+      |---password
+      |---chats
+
+
+
+      
